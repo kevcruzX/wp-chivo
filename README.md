@@ -88,6 +88,7 @@ As we have known the use of Woocommerce for our virtual stores, the need to crea
 
 With this initiative I intend to help all the people who want to be able to integrate chivo wallet as a preferred payment method in their virtual stores.
 
+First Release expected: AUGUST 2022
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
