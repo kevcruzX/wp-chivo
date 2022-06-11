@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Minimal Mechanics For QR Generator</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no" /><link rel="stylesheet" href="../css/GeneratorQR_test.css">
+</head>
+<body>
+  <div class="boardqr">
+<div class="header">ADDING YOUR USDCODE FROM CHIVO WALLET<br> Example: 217f4f08-50ea-4059-8ff5-XXXXXXXXX</div> 
+USDCODE: <input id="text" type="text" value="217f4f08-50ea-4059-8ff5-XXXXXXXXX" style="width:40%" /> <br>
+VALOR A COBRAR: $ <input id="valor" type="text" value="0.01" style="width:32%" />
+
+<div id="qrcode">
+  <div class="dolar"></div>
+</div>
+
+<h2 style="color:red">In this default code we have left fixed. a one cent payment.</h2>
+<h2>ScanQR from the Chivo wallet application.</h2>
+</div>
+
+<script src='../js/jquery.min.js'></script>
+<script src='../js/qrcode.min.js'></script>
+<script  src="../js/tools_test.js"></script>
+
+
+<!--  REFERENCE:
+-> usd:217f4f08-50ea-4059-8ff5-97f91992de39
+-> 3CdEZxePZHWcWTz7enpd1XUqbuSSAD4aVW
+-> usd:217f4f08-50ea-4059-8ff5-97f91992de39?amount=100
+-> 3CdEZxePZHWcWTz7enpd1XUqbuSSAD4aVW?amount=0.00342136&message=0.0
+-->
+
+</body>
+</html>

@@ -1,12 +1,4 @@
 <div id="top"></div>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
 
 
 <!-- PROJECT SHIELDS -->
@@ -84,11 +76,13 @@
 
 Start of development of WP Chivo wallet, It was born with the initiative to integrate an easy payment method, using the advantages of the Chivowallet to accept payments immediately.
 
-As we have known the use of Woocommerce for our virtual stores, the need to create a plugin to be able to make automatic payments has become evident. integrating them with all the advantages that woocommerce offers you.
+As we have known the use of Woocommerce for our Ecommerce website, the need to create a plugin to be able to make automatic payments has become evident. integrating them with all the advantages that woocommerce offers you, For example, automate product prices.
 
-With this initiative I intend to help all the people who want to be able to integrate chivo wallet as a preferred payment method in their virtual stores.
+With this initiative I intend to help all the people who want to be able to integrate chivo wallet as a preferred payment method in their Ecommerce website.
 
 First Release expected: AUGUST 2022
+
+
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
@@ -172,21 +166,25 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 
 <!-- ROADMAP -->
-<!-- ## Roadmap
+## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
+- [x] Validate Mechanics
+- [x] Create initial Function Woocommerce
+ [![Product Name Screen Shot][product-screenshot]](https://github.com/kevinjosue2326/wp-chivowallet)
+> Screenshot from GeneratorQR  
+- [ ] Conditions and exepction
+- [ ] Backend Implementation and validation
+- [ ] Add More Options and Personalization
+- [ ] Test design and validations
+- [ ] Improve design Layout UI/UX
+- [ ] Create Documentation
+- [ ] Tutorials and videos
+- [ ] Initial Release
 
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
- -->
+
 
 <!-- CONTRIBUTING -->
 <!-- ## Contributing
@@ -258,4 +256,4 @@ Use this space to list resources you find helpful and would like to give credit 
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: /images/mechanics-step-1.png
